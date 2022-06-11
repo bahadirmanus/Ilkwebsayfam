@@ -5,3 +5,7 @@ Bu odev [Başlangıç Seviye Frontend Web Development Patikası](https://app.pat
 2. Cesitli H taglari, listeleme taglari, we sayfasi linki eklendi.
 3. README olusturuldu.
 
+# Odev 2
+## Yapilanlar
+1. Resim eklendi
+2. Linkler eklendi
